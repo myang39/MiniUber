@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/e12f133d8614a08c8a07f50a4c41f330371cfd43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f967ae3e8799afe6856c16a8c8c165a580e92be0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/d0be05dcdcac238201c7ad62dea2b5c714d2b6b1/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_23735b88f663682e5cb98c5ec432f15c360f0bc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/b994a85dde5ae443ad7d163b6d62e1c71941c224/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_780e7431c318cc29540993af4c3451c61b74b81d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/945e1f834ea8f4fd5e2897efb1839bb4960d94d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8a8dcff6ac6af19d926d3ed00b92105275ea35b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/ff90066b2b4895ee073d89e3e743906fdd4dffed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa140cbb679318d355bab2c0dc655250b7a8a350/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/8401ed5b066dd30d5a439598e91febb4a49f1212/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fcd41099b38d2af3c3ebb5de104125a2ca49a65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_bc66f7e19b00bf6e9e9bd6f3d795b753cafcb4c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/3c27c0d8d8068e89e5d68fc496205e5569b7c278/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6e3cef7313ea30c8d7627710b1728f829a2f7e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/0b79b5e0be4be36d5f5e2cc544fad59342f2ffde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50cb008059685cfd096aa72014a3aaec3206ad43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/22ed2483ce2a6c7425e9e4b6378f71a5c44c864b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72b2a60d03e6554e24c47fb5d237a405a7052952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/58fff45792f5e677d7518673ec78ca1f8c44f734/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9190b5fd4c123b422f027835bd89c246639ffb2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/d0be05dcdcac238201c7ad62dea2b5c714d2b6b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_444c596466d2085b7584149b8e4278a1d26aa684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/15d0b743638d2a5741989fc73872fe32acc4b3fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95b91efd75f732579172db130af6e3b46852c624/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/c0aa76f55e5c34d227c0ea39e5371eff847c9e63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ccf1d0833affa79b33847dfd313a02dbf7dd93e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/9f65ca17d4e7e8402fd4c21416d4c14e3fa430b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18ffa4495c0892668ebff5092b0173100659aaee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/02272fba90f247069d138ef5088ac3cb37c6fcf1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2b67d6fd2a9c58a8f5b2107beebd10f6d1fe55b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/01f5c719a3704ac450e1c8e80c50502d924fd5eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c46a279c3b2f3cb4917a083b396fd7efc37ccf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/b3dbe50a814be0d9e7a6f51b7953de4c86784ef2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1989d3cc39c5041e4095412355d5793fd78f4be3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/056d12328026c0d82b23c5b3fbc3c357f8a8d297/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9f98ce45cf97ca3d47619538038305d94325283/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/b8f29c002fc871a72df1e54115d0f6e7a7a20ecc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd5953bbfc9454a07645efce042fa7bfac5d3450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/de4773653ff0b98f53406d110544cdf43bd69a68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41dcbaeca5ebab87adc518ed6080738b9532ffe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/0be4932734aebd7ec49d6caf1c94d22c4c6d2b6a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae8e3536f8c43bf560aca1a9ebfc53fff3254c6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/3c03679211f5d3aab9b95140da318fef31be9e5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_751705e665df9f26354f45866d81edca366cde99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/0dfe47a262dc832212978c4e4b111bf2fb3c5286/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7c360526e455f18ddd9d7bf19691d75f1612d0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/d3092675c26dc893c25945027ebcdafa0aea00d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e71398e6c225cf9339e6a8712ae5a8e614281b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/dfa8e7ea6a3d3d2c4f7a3fd6a79170ae57f76e49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f5262ab7312cd66a22fe904fe2c82f2c75a0f71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/9d995f650920d4f6fe5d61ada2f9bb041682a4bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10b80ac61dfd0989d04fc644ba809fe413c53157/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/7084d330d4dc2f7b0df4d97798d2f8079bf4ac49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af865576c97952164381d0ba2ec2f8b3f9827133/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/90e06f180e472aa2e7da54236867d8c48a3211f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a923a1cd2614000bb189d65fff266e352f703504/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_b52f6a33ae533a6dbaefdfc2ac03c74cc4c7bee8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/f54268c3c6cbb8f2026a55cfac499fd4b0a1ccac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ce62570afb8e0c76be70da0fdb4b0ec934b316c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/5cdb2391f1c60a4c8ae7d62f1af2983ec63287b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a33272a92ad33ec7406201d9eaaa1becb6ca58a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/41db90adf9624c421496dd0f1378e8d600d2be99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17e17872a54ea5ed18deb6888aa9d6675d3b35cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/800457a10ad68d94e3fe77e6dd67ba4aceedc974/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ede6e3f6275b2fa0991f5398e9f5821dffd6ce0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_649411079cfe260d0af66ea2e7fd30dedd626f69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/86f2f4e12e55ca090a0480a543424570a9e948f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a40a98630fba2b932fb3de00e023252e008eaa22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/b541ff1e0496c9e3d1754770e9365c71d13878c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0be34660ccb060ece00a746ef50b335d93ac2fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/da49bf281555bc6232d38f5ee127a3d2a1f9369b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73f130259fca0d419e7d819b15b59a36e9d2370f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96d73ad6d3b04b6b68652d8b6199257be8d793ae">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a802460ecfa152456447693ec94189a95d278357/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/c3d55fcd2e480a44c8a0d61cbe2dca91bbf8d707/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99b6376e1f74542d94644bd1d2a25f214098d091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/fe316a5333afab0728faa47959bfab9e9f8e1db2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d6cece0e5c40ff0ab63c978bb36bd34679ab845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7f85e742ac7d5f8b34d83d8393f580200479e889/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/d8cea96dbb9667ba34aed69760b2d92ae2d2df0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f93d77735de52096e42b5b66d088a33bd725497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/3e34c5c88ebcc65b79f2174521115e02a4863f39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ae9da9e22ff99cd973b2637662d1f5eaab3db53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/68a0310439f31153d4a92b1da1f0ef939f469074/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61a9699f719177acb4232003f947e423fe595b88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/6f1e7d5bcda87c44f22bdacf80ef60c69fd0ddc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01095da2c60977380e985f6a9dc9f18d4e3bf97d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/fb7de0b83862d1baa7ffa1598b94f49587220396/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f16ff08f1a4c9a7e21cc27aed8092dfe5fe923b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/c04eb2fef82d241ccb369777a12dc8a8dccd6725/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_299e211cc2b82336e7ec5db4d5b180e64d8fe2d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/9ad5e9ab14fe449d28746007e04141ffb3c71e69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e66fea320e08d205344426de04261eb5c74bef4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/999a03eda1c44719421f854d65262404fe68b995/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e64ca58002dcf7f9cb2590c7d870c8aa8a945c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/290e52df0b84d1c0777180c6dd2743682153c2ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1efcae93fc4d07010c831e33aa835c8a5e04791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/57d5b24b03ab7e92322edba56b20a49e4a282995/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47d1e8355d74b2cb4e2c84405d02073e40e82c7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/a1119c2e364ffc61d5638ad5cae51c117bdf99a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0c4e2e88e7f0bcf69b4083060aec235ec51b4f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/fb500956e0f3d6750f8850e78c465d8096b902c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0aaa6bc23c077231ea3c2336312171a9b191bc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minkangyang/.android/build-cache/e3fae4a3786d801f06ef6f725d82944f77e6896a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2756b012c88896a2a6820b65a2b644ddda09091a/classes.dex" />
+    </item>
+
+</items>

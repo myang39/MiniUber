@@ -1,0 +1,7 @@
+#Thu Mar 23 23:14:54 CDT 2017
+base.0=/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a802460ecfa152456447693ec94189a95d278357
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7f85e742ac7d5f8b34d83d8393f580200479e889/classes.dex
+base.1=/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7f85e742ac7d5f8b34d83d8393f580200479e889
+file.0=/Users/minkangyang/Desktop/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a802460ecfa152456447693ec94189a95d278357/classes.dex
